@@ -1,2 +1,2 @@
 # hello-world
-This repository helps me to exercise the GitHub-Flow.
+43, male, interested in coding python
